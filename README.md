@@ -1,4 +1,4 @@
-# openstreet1
+# Openstreet
 React.js + Django
 ## Frontend
 * npm install
