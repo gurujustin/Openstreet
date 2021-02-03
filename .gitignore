@@ -1,0 +1,4 @@
+env
+env1
+node_modules
+db.sqlite3
